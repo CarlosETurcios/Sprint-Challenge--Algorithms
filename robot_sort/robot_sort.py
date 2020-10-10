@@ -107,11 +107,10 @@ class SortingRobot:
             return
         # Robot can move right if it can
             if self.can_move_left():
-                self.can_move_left()
 
-        # Robot can swap items
-        # Robot can compare items
-        # robots light is off and it can turn it off
+                # Robot can swap items
+                # Robot can compare items
+                # robots light is off and it can turn it off
 
         pass
 
